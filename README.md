@@ -1,4 +1,4 @@
-# \# 🎬 CineDesk - Movie Ticket Booking System
+# 🎬 CineDesk - Movie Ticket Booking System
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# \## 🚀 Features
+# 🚀 Features
 
 # 
 
@@ -30,7 +30,7 @@
 
 # 
 
-# \## 🛠️ Tech Stack
+#  🛠️ Tech Stack
 
 # 
 
@@ -50,7 +50,7 @@
 
 # 
 
-# \## 📂 Project Structure
+#  📂 Project Structure
 
 # 
 
