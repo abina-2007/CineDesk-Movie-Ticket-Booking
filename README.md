@@ -1,29 +1,84 @@
-# Welcome to your Lovable project
+# \# 🎬 CineDesk - Movie Ticket Booking System
 
-This project was built with [Lovable](https://lovable.dev).
+# 
 
-## Build with Lovable
+# CineDesk is a modern web-based movie ticket booking application designed to provide users with a simple and convenient way to browse movies, view movie details, select seats, and book tickets.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+# 
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+# \## 🚀 Features
 
-## Development
+# 
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+# \- 🎬 Browse available movies
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+# \- 🔎 View movie details
 
-## Built with
+# \- 🎟️ Movie ticket booking
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+# \- 💺 Seat selection
+
+# \- 📋 Booking request management
+
+# \- 👨‍💼 Admin dashboard
+
+# \- 📊 Booking status tracking
+
+# \- 📱 Responsive user interface
+
+# \- ⚡ Fast and modern web application
+
+# 
+
+# \## 🛠️ Tech Stack
+
+# 
+
+# \- React
+
+# \- TypeScript
+
+# \- Vite
+
+# \- TanStack Router
+
+# \- Tailwind CSS
+
+# \- shadcn/ui
+
+# \- Bun / npm
+
+# 
+
+# \## 📂 Project Structure
+
+# 
+
+# ```text
+
+# CineDesk-Movie-Ticket-Booking/
+
+# ├── public/
+
+# ├── src/
+
+# │   ├── assets/
+
+# │   ├── components/
+
+# │   ├── hooks/
+
+# │   ├── lib/
+
+# │   └── routes/
+
+# ├── .gitignore
+
+# ├── netlify.toml
+
+# ├── package.json
+
+# ├── tsconfig.json
+
+# └── vite.config.ts
+
