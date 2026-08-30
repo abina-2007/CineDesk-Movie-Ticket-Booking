@@ -54,8 +54,6 @@
 
 # 
 
-# ```text
-
 # CineDesk-Movie-Ticket-Booking/
 
 # ├── public/
