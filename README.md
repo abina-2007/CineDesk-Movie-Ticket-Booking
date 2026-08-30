@@ -6,9 +6,11 @@
 
 # 
 
-## 🌐 Live Demo
+## Live Demo
 
-[View CineDesk Live Demo](https://6a943b9dc8c5e8eeae8e05c3--inspiring-heliotrope-34a59f.netlify.app/)
+#
+
+[View CineDesk Live](https://abina-2007-cinedesk-movie-ticket-booking.cinedesk.workers.dev/)
 
 #
 
